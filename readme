@@ -1,0 +1,11 @@
+1.HTML
+2.CSS
+3.JS
+
+
+NO CSS,LESS HTML,ONLY JAVASCRIPT
+
+
+1.通过虚拟dom进行HTML文档的生成    Object => HTML DOM
+2.通过JS进行CSS的添加
+3.所有有关的操作均通过JS进行
